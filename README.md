@@ -1,6 +1,6 @@
 # GenomicsProject2024
 
-[case 584]([https://elenalippolis9.github.io/GenomicsProject2024/multiqc_report_case584.html) <br>
+[case 584](https://elenalippolis9.github.io/GenomicsProject2024/multiqc_report_case584.html) <br>
 [case 600](https://elenalippolis9.github.io/GenomicsProject2024/multiqc_report_case600.html) <br>
 [case 622](https://elenalippolis9.github.io/GenomicsProject2024/multiqc_report_case622.html) <br>
 [case 625](https://elenalippolis9.github.io/GenomicsProject2024/multiqc_report_case625.html) <br>
